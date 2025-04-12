@@ -2,29 +2,29 @@
 const questions = [
   {
     id: "q1",
-    text: "Ce este JavaScript?",
+    text: "De unde iei mancare?",
     answers: [
-      { text: "Limbaj de stilizare", correct: false },
-      { text: "Limbaj de programare", correct: true },
-      { text: "Sistem de operare", correct: false }
+      { text: "De la Basarabi", correct: false },
+      { text: "De la Cernavoda", correct: true },
+      { text: "De la Lupa", correct: false }
     ]
   },
   {
     id: "q2",
-    text: "Cât face 9 x 3?",
+    text: "Ce iei de mancare?",
     answers: [
-      { text: "27", correct: true },
-      { text: "21", correct: false },
-      { text: "36", correct: false }
+      { text: "Baclavale turcesti", correct: true },
+      { text: "Fasole cu ciolane", correct: false },
+      { text: "Ceafa de bour la gratar", correct: false }
     ]
   },
   {
     id: "q3",
-    text: "Ce folosești pentru a crea structura unei pagini web?",
+    text: "Cu ce veniti in buzunar de la Cernavoda?",
     answers: [
-      { text: "HTML", correct: true },
-      { text: "CSS", correct: false },
-      { text: "Photoshop", correct: false }
+      { text: "Vreau 500 lei", correct: true },
+      { text: "Nu vreau 500 lei", correct: false },
+      { text: "Vreau mai mult de 500 lei", correct: false }
     ]
   }
 ];
