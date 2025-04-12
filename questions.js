@@ -1,4 +1,3 @@
-
 const questions = [
   {
     id: "q1",
